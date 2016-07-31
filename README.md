@@ -1,5 +1,6 @@
 # FabCafe Taipei Projection Mapping Workshop  
 ### 光雕投影工作坊 by Kyle Li
+此部分的目的是利用 Processing 和 OSC(Open Sound Control) 來作為各式客製控制與 VPT 7 之前的橋樑。
 
 ### Hardware (硬體需求):  
 自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
