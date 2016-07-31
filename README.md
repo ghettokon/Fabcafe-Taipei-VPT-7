@@ -18,7 +18,7 @@
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/controlP5.jpg)  
 
 ### Setup Network (網路設定):  
-此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機在同一個網路裡。
+此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。
 
 WINDOWS:  
 1. 打開Command Prompt, 輸入ipconfig然後按ENTER鍵。  
