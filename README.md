@@ -24,7 +24,6 @@ WINDOWS:
 1. 打開Command Prompt, 輸入ipconfig然後按ENTER鍵。  
 2. 找出你的筆電所屬的IPv4 Address，總共會有四個數字，這個是你筆電在此網路中的位址。  
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/commandp.jpg)  
-  
 3. 在你的手機或平板開啟 LittleOSC APP，把剛剛找到的位址輸入進去。Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loAndriod.jpg)  
   
