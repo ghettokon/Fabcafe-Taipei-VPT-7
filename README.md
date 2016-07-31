@@ -1,5 +1,4 @@
-# fabcafeTaipei-VPT-7
-Welcome to my Projection Mapping Workshop at Fabcafe Taipei!
+# FabCafe Taipei Projection Mapping Workshop 光雕投影工作坊
 
 ### Hardware (硬體需求):  
 自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
@@ -16,3 +15,10 @@ Welcome to my Projection Mapping Workshop at Fabcafe Taipei!
 ![Processing icon](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/Processing_icon.jpg)
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/OSP5.jpg)
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/controlP5.jpg)  
+
+### Setup Network (網路設定):  
+WINDOWS:  
+1. 打開Command Prompt, 輸入ipconfig然後按ENTER鍵。  
+2. 找出你的筆電所屬的IPv4 Address，幒共會有四個數字，這個是你筆電在此網路中的位址。  
+![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/commandp.jpg)  
+3. 
