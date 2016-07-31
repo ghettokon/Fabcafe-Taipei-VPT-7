@@ -10,4 +10,4 @@ Welcome to my Projection Mapping Workshop at Fabcafe Taipei!
 3. 下載 Processing 最新版本 https://processing.org/download/ 可以選不捐款(No Donation)跳過直接下載，將來常用的話，建議未來多少捐一點。   
 4. 下載安裝完畢後，開始 Processing 軟體，去目錄[Sketch]下的[Import Library...]中按下[Add Library...]，視窗跳出後收尋並安裝 oscP5 插件。  
 ![LittleOSC icon](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/LittleOSC_icon.jpg)  
-![Processing icon](https://processing.org/img/processing3-logo.png)  
+![Processing icon](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/Processing_icon.jpg)  
