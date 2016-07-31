@@ -1,4 +1,5 @@
-# FabCafe Taipei Projection Mapping Workshop 光雕投影工作坊
+# FabCafe Taipei Projection Mapping Workshop  
+# 光雕投影工作坊 by Kyle Li
 
 ### Hardware (硬體需求):  
 自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
@@ -17,8 +18,12 @@
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/controlP5.jpg)  
 
 ### Setup Network (網路設定):  
+此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機在同一個網路裡。
+
 WINDOWS:  
 1. 打開Command Prompt, 輸入ipconfig然後按ENTER鍵。  
 2. 找出你的筆電所屬的IPv4 Address，幒共會有四個數字，這個是你筆電在此網路中的位址。  
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/commandp.jpg)  
-3. 
+3. 在你的手機或平板開啟 LittleOSC APP，把剛剛找到的位址輸入進去。  
+![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loAndriod.jpg)  
+4. 
