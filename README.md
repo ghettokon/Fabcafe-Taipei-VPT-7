@@ -1,5 +1,5 @@
 # FabCafe Taipei Projection Mapping Workshop  
-## 光雕投影工作坊 by Kyle Li
+### 光雕投影工作坊 by Kyle Li
 
 ### Hardware (硬體需求):  
 自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
