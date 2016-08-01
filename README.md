@@ -37,6 +37,8 @@
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loMac.jpg)  
 
+###VPT 7 準備
+
 ###Little OSC → Processing 測試
 
 ###Processing → VPT 7 測試
