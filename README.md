@@ -22,7 +22,7 @@
 此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。
 
 ####WINDOWS:  
-1. 打開Command Prompt, 輸入ipconfig然後按ENTER鍵。  
+1. 打開Command Prompt, 鍵入ipconfig然後按ENTER鍵。  
 2. 找出你的筆電所屬的IPv4 Address，總共會有四個數字，這個是你筆電在此網路中的位址。  
 ![Win IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/commandp.jpg)  
 3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
