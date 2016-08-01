@@ -37,8 +37,15 @@
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loMac.jpg)  
 
+###Little OSC → Processing 測試
+
+###Processing → VPT 7 測試
+
+###Party Time!
+
 ###Troubleshooting(除錯)  
 1. 筆電和手機在同一個網路裡  
-2. Little OSC 內的所填的IP位址要和筆電的一樣
-3. Little OSC 內所填的 Port 要和 Processing 程序裡接收的 Port 同一個數字
-4. Wi-Fi Router 要支援 UDP 和 OSC 的傳輸(一般都會支援，除非有經過特殊設定)
+2. Little OSC 內的所填的IP位址要和筆電的一樣  
+3. Little OSC 內所填的 Port 要和 Processing 程序裡接收的 Port 同一個數字  
+4. Processing 要按 Play
+5. Wi-Fi Router 要支援 UDP 和 OSC 的傳輸(一般都會支援，除非有經過特殊設定)
