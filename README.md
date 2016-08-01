@@ -52,14 +52,17 @@ https://processing.org
 ###Little OSC → Processing 測試
 
 ###Processing → VPT 7 測試  
-/1video,/2video,/3video,/4video,/5video,/6video,/7video,/8video  
-+/clip s name of video  
-+/clipnr i (relative position in sourcemenu, 0:off, 1:first video, 2:second video etc)  
-+/rate f (1. normal speed, -1 normal speed backwards)  
-+/start t  
-+/stop t  
-/1cam,/2cam  
-+/on i (0,1) 
+/sources
++/1video,/2video,/3video,/4video,/5video,/6video,/7video,/8video  
+++/clip s name of video  
+++/clipnr i (relative position in sourcemenu, 0:off, 1:first video, 2:second video etc)  
+++/rate f (1. normal speed, -1 normal speed backwards)  
+++/start t  
+++/stop t  
+  
+/sources  
++/1cam,/2cam  
+++/on i (0,1) 
 VPT 7 全部可用參數:    
 http://nervousvision.com/vpt/vpt7_osc-list.html  
 
