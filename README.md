@@ -21,7 +21,7 @@
 ### Setup Network (網路設定):  
 此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。
 
-WINDOWS:  
+####WINDOWS:  
 1. 打開Command Prompt, 輸入ipconfig然後按ENTER鍵。  
 2. 找出你的筆電所屬的IPv4 Address，總共會有四個數字，這個是你筆電在此網路中的位址。  
 ![Win IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/commandp.jpg)  
@@ -29,7 +29,7 @@ WINDOWS:
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loAndriod.jpg)  
   
-MAC:  
+####MAC:  
 1. 去系統偏好(System Preference)裡按下網路(Network)  
 2. 網路視窗裡，在左邊選擇你所登入的網路，右邊上方會顯示你現在的IP位址，總共會有四個數字，這個是你筆電在此網路中的位址。  
 ![Mac IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/mac_ip.jpg)  
