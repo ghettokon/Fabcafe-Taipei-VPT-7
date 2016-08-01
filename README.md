@@ -1,6 +1,7 @@
 # FabCafe Taipei Projection Mapping Workshop  
-### 光雕投影工作坊 by Kyle Li
-工作坊的目的是利用 Processing 和 OSC(Open Sound Control) 來作為各式客製控制介面與 VPT 7 之間的橋樑。  
+### 光雕投影工作坊 by Kyle Li  
+工作坊1:VPT7基本==講解VPT7的介面和使用方法   
+工作坊2:VPT7進階==講解利用 Processing 和 OSC(Open Sound Control) 來作為各式客製控制介面與 VPT 7 之間的橋樑
 
 立體光雕 ( Projection Mapping )，也可以解讀成動態影像貼圖或空間式的擴增實境，是一種利用投影技術來將一個擁有不規則面的實體物件轉化成為一個可以投影的屏幕。一般來說，建築物的外牆、家具、生活雜物、表演的舞台、服裝和人的身體都是理想的立體光雕對象。
 
