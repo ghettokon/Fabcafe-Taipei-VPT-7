@@ -7,7 +7,7 @@
 
 這個工作坊所用的工具叫做 VPT 7 (Video Projection Tool) 是由 HC Gilje 設計的免費的多功能軟體，適用於蘋果和微軟。除了一般投影的合成外，VPT更可以用來將動態影像投影在複雜的物體表面上、整合預錄和
 即時的影片投射、midi 控制器、多螢幕的HD高畫質播放、或者是使用在以微處理器(Arduino)或是攝像追蹤為主的互動裝置藝術。  
-https://hcgilje.wordpress.com/vpt/
+https://hcgilje.wordpress.com/vpt/  
 
 編程的部分我們使用 Processing，由原麻省理工學院學生為設計師和藝術家所設計的編程軟體，有非常大的使用者族群和線上資源。對於原型的製作和測試(Prototyping)來說是一款很方便的工具。  
 https://processing.org  
