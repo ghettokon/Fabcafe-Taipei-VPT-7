@@ -19,8 +19,7 @@
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/controlP5.jpg)  
 
 ### Setup Network (網路設定):  
-此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。
-
+此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。  
 ####WINDOWS:  
 1. 打開Command Prompt, 鍵入ipconfig然後按ENTER鍵。  
 2. 找出你的筆電所屬的IPv4 Address，總共會有四個數字，這個是你筆電在此網路中的位址。  
@@ -28,7 +27,6 @@
 3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loAndriod.jpg)  
-  
 ####MAC:  
 1. 去系統偏好(System Preference)裡按下網路(Network)  
 2. 網路視窗裡，在左邊選擇你所登入的網路，右邊上方會顯示你現在的IP位址，總共會有四個數字，這個是你筆電在此網路中的位址。  
@@ -36,3 +34,8 @@
 3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loMac.jpg)  
+###Troubleshooting(除錯)  
+1. 筆電和手機在同一個網路裡  
+2. Little OSC 內的所填的IP位址要和筆電的一樣
+3. Port 的數字要和 Processing 程序裡的接收 Port 同一個數字
+4. Wi-Fi Router 要支援 UDP 和 OSC 的傳輸(一般都會支援，除非有經過特殊設定)
