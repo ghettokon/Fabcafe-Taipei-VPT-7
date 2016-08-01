@@ -51,8 +51,8 @@ https://processing.org
 
 ###Little OSC → Processing 測試
 
-###Processing → VPT 7 測試
-####VPT 7 可用參數參考  
+###Processing → VPT 7 測試  
+VPT 7 可用參數參考  
 http://nervousvision.com/vpt/vpt7_osc-list.html  
 
 ###Party Time!
