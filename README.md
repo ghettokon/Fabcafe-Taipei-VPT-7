@@ -29,5 +29,8 @@ WINDOWS:
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loAndriod.jpg)  
   
-MAC:
-
+MAC:  
+1. 去系統偏好(System Preference)裡按下網路(Network)  
+2. 網路視窗的上方會顯示你的IP位址，總共會有四個數字，這個是你筆電在此網路中的位址。  
+3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
+4. Port 的部分填 6280   
