@@ -34,6 +34,7 @@
 3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loMac.jpg)  
+
 ###Troubleshooting(除錯)  
 1. 筆電和手機在同一個網路裡  
 2. Little OSC 內的所填的IP位址要和筆電的一樣
