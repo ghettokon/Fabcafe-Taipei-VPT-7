@@ -52,7 +52,7 @@ https://processing.org
 ###Little OSC → Processing 測試
 
 ###Processing → VPT 7 測試  
-/sources
+/sources  
 +/1video,/2video,/3video,/4video,/5video,/6video,/7video,/8video  
 ++/clip s name of video  
 ++/clipnr i (relative position in sourcemenu, 0:off, 1:first video, 2:second video etc)  
