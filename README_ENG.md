@@ -15,11 +15,11 @@ https://processing.org
 自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
 
 ### Download:    
-1. 手機部分:下載 LittleOSC APP  
-2. 下載 VPT 7 軟件 https://hcgilje.wordpress.com/vpt/ 下載解壓縮後，把整個檔案夾放在桌面上。  
-3. 下載 Processing 最新版本 https://processing.org/download/ 可以選不捐款(No Donation)跳過直接下載，將來常用的話，建議未來多少捐一點。   
-4. 下載 Processing 插件1 OscP5，http://www.sojamo.de/libraries/oscP5/ 下載解壓縮後，把整個 OscP5 檔案夾放在桌面上方便等一下安裝。 
-5. 下載 Processing 插件2 controlP5，http://www.sojamo.de/libraries/controlP5/ 下載解壓縮後，把整個 controlP5 檔案夾放在桌面上方便等一下安裝。 
+1. On your mobile devices, download LittleOSC  
+2. Download VPT 7 software https://hcgilje.wordpress.com/vpt/ unzip and drag the whole folder onto your desktop  
+3. Download the latest Processing IDE https://processing.org/download/ You can bypass the donation (No Donation) to download，but if you fall in love with it in the future, donate some then.  
+4. Download Processing plugin OscP5，http://www.sojamo.de/libraries/oscP5/ unzip and drag the whole folder onto your desktop for instatllation later.  
+5. Download Processing plugin controlP5，http://www.sojamo.de/libraries/controlP5/ unzip and drag the whole folder onto your desktop for instatllation later.  
   
 ![LittleOSC icon](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/LittleOSC_icon.jpg)
 ![VPT 7 icon](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/vpt7_icon.jpg)
@@ -28,22 +28,22 @@ https://processing.org
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/controlP5.jpg)  
 
 ### Setup Network:  
-此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。  
+The purpose of this step is to match the IP address on your laptop and on the mobile app so they can talk to each other. The first thing is to make sure your mobile device(s) and your laptop are in the same network.  
 
 ####WINDOWS:  
-1. 打開Command Prompt, 鍵入ipconfig然後按ENTER鍵。  
-2. 找出你的筆電所屬的IPv4 Address，總共會有四個數字，這個是你筆電在此網路中的位址。  
+1. Opern Command Prompt and type in ipconfig, press enter key afterward  
+2. Find the number behind IPv4 Address，there should be 4 sets of number separated by dots, this is the IP address of your latop  
 ![Win IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/commandp.jpg)  
-3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
-4. Port 的部分填 6280   
+3. Open LittleOSC on your mobile devices and type in the IP address found above
+4. Type in 6280 in Port   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loAndriod.jpg)  
 
 ####MAC:  
-1. 去系統偏好(System Preference)裡按下網路(Network)  
-2. 網路視窗裡，在左邊選擇你所登入的網路，右邊上方會顯示你現在的IP位址，總共會有四個數字，這個是你筆電在此網路中的位址。  
+1. Go to Network in your System Preference  
+2. In the dialog window, select the network you are using on the left, and on the right you will find your IP address   
 ![Mac IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/mac_ip.jpg)  
-3. 在你的手機或平板開啟剛剛下載的 LittleOSC APP，把上面找到的位址填進去。  
-4. Port 的部分填 6280   
+3. Open LittleOSC on your mobile devices and type in the IP address found above  
+4. Type in 6280 in Port   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loMac.jpg)  
 
 ###VPT 7 Preparation
