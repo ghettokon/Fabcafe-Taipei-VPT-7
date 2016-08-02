@@ -3,7 +3,7 @@
 Workshop 1:VPT7 Basics - Interface and basic usages   
 Workshop 2:VPT7 Advanced techniques - control VPT 7 with alternative interfaces through OSC   
 
-Projection Mapping is a technique to map projection on uneven physical surfaces. Building facade, funrniture, ordinary daily object, stage, garmet, and our body are common surfaces to be considered for projection mapping.   
+Projection Mapping is a technique used to map projection on uneven physical surfaces. Building facade, funrniture, ordinary daily object, stage, garmet, and our body are common surfaces to be considered for projection mapping.   
 
 We will be using VPT 7 by HC Gilje, a free and cross-platform projection mapping tool. Besides managing and remixing video sources, VPT 7 is capable of recoding live video and playback, distoring and mapping videos onto uneven physical surfaces, various real-time controls, HD play-back, or even custom interfaces for purpose of interactive installation.    
 https://hcgilje.wordpress.com/vpt/  
