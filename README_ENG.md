@@ -63,14 +63,14 @@ https://processing.org
 /sources  
 +/1cam,/2cam  
 ++/on i (0,1) 
-VPT 7 全部可用參數:    
+VPT 7 full reference:    
 http://nervousvision.com/vpt/vpt7_osc-list.html  
 
 ###Party Time!
 
-###Troubleshooting(除錯)  
-1. 筆電和手機在同一個網路裡  
-2. Little OSC 內的所填的IP位址要和筆電的一樣  
-3. Little OSC 內所填的 Port 要和 Processing 程序裡接收的 Port 同一個數字  
-4. Processing 要按 Play
-5. Wi-Fi Router 要支援 UDP 和 OSC 的傳輸(一般都會支援，除非有經過特殊設定)
+###Troubleshooting
+1. Laptop and mobile device(s) are in the same network
+2. Little OSC and laptop has the same ip address
+3. Little OSC's port number matches the one in the Processing sketch  
+4. Processing is running
+5. Wi-Fi Router is competible with UDP and OSC (some networks will intensionally filter UDT and OSC out to avoid data clogging)
