@@ -11,10 +11,10 @@ https://hcgilje.wordpress.com/vpt/
 Programming wise, we will be using Processing, a interface development editor (IDE) designed by MIT for artists and designers. It has massive user community and online resours, very awesome tool for prototyping and experiment.  
 https://processing.org  
 
-### Hardware (硬體需求):  
+### Hardware:  
 自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
 
-### Download (下載):    
+### Download:    
 1. 手機部分:下載 LittleOSC APP  
 2. 下載 VPT 7 軟件 https://hcgilje.wordpress.com/vpt/ 下載解壓縮後，把整個檔案夾放在桌面上。  
 3. 下載 Processing 最新版本 https://processing.org/download/ 可以選不捐款(No Donation)跳過直接下載，將來常用的話，建議未來多少捐一點。   
@@ -27,7 +27,7 @@ https://processing.org
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/OSP5.jpg)
 ![OscP5 download](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/controlP5.jpg)  
 
-### Setup Network (網路設定):  
+### Setup Network:  
 此步驟的用意是將 LittleOSC 的網路設定正確，所以你的筆電可以收到你的 LittleOSC 所送出的 OSC 訊息。務必確定你的筆電和你的手機是登入在同一個網路裡。  
 
 ####WINDOWS:  
@@ -46,11 +46,12 @@ https://processing.org
 4. Port 的部分填 6280   
 ![IPv4 Address](https://github.com/ghettokon/fabcafeTaipei-VPT-7/raw/master/media/loMac.jpg)  
 
-###VPT 7 準備
+###VPT 7 Preparation
 
-###Little OSC → Processing 測試
+###Little OSC → Processing testing  
 
-###Processing → VPT 7 測試  
+###Processing → VPT 7 testing
+
 /sources  
 +/1video,/2video,/3video,/4video,/5video,/6video,/7video,/8video  
 ++/clip s name of video  
