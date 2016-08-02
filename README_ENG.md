@@ -12,7 +12,7 @@ Programming wise, we will be using Processing, a interface development editor (I
 https://processing.org  
 
 ### Hardware:  
-自備筆電的螢幕解析度的垂直像素必須大於768像素，請自行挑整。  
+Make sure the vertical pixel of the screen resolution of your laptop is larger than 768 pixels 
 
 ### Download:    
 1. On your mobile devices, download LittleOSC  
