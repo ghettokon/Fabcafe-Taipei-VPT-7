@@ -1,15 +1,14 @@
 # FabCafe Taipei Projection Mapping Workshop  
-### 光雕投影工作坊 by Kyle Li  
-工作坊1:VPT7基本==講解VPT7的介面和使用方法   
-工作坊2:VPT7進階==講解利用 Processing 和 OSC(Open Sound Control) 來作為各式客製控制介面與 VPT 7 之間的橋樑
+### by Kyle Li    
+Workshop 1:VPT7 Basics - Interface and basic usages   
+Workshop 2:VPT7 Advanced techniques - control VPT 7 with alternative interfaces through OSC   
 
-立體光雕 ( Projection Mapping )，也可以解讀成動態影像貼圖或空間式的擴增實境，是一種利用投影技術來將一個擁有不規則面的實體物件轉化成為一個可以投影的屏幕。一般來說，建築物的外牆、家具、生活雜物、表演的舞台、服裝和人的身體都是理想的立體光雕對象。
+Projection Mapping is a technique to map projection on uneven physical surfaces. Building facade, funrniture, ordinary daily object, stage, garmet, and our body are common surfaces to be considered for projection mapping.   
 
-這個工作坊所用的工具叫做 VPT 7 (Video Projection Tool) 是由 HC Gilje 設計的免費的多功能軟體，適用於蘋果和微軟。除了一般投影的合成外，VPT更可以用來將動態影像投影在複雜的物體表面上、整合預錄和
-即時的影片投射、midi 控制器、多螢幕的HD高畫質播放、或者是使用在以微處理器(Arduino)或是攝像追蹤為主的互動裝置藝術。  
+We will be using VPT 7 by HC Gilje, a free and cross-platform projection mapping tool. Besides managing and remixing video sources, VPT 7 is capable of recoding live video and playback, distoring and mapping videos onto uneven physical surfaces, various real-time controls, HD play-back, or even custom interfaces for purpose of interactive installation.    
 https://hcgilje.wordpress.com/vpt/  
 
-編程的部分我們使用 Processing，由原麻省理工學院學生為設計師和藝術家所設計的編程軟體，有非常大的使用者族群和線上資源。對於原型的製作和測試(Prototyping)來說是一款很方便的工具。  
+Programming wise, we will be using Processing, a interface development editor (IDE) designed by MIT for artists and designers. It has massive user community and online resours, very awesome tool for prototyping and experiment.  
 https://processing.org  
 
 ### Hardware (硬體需求):  
