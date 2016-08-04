@@ -74,3 +74,9 @@ http://nervousvision.com/vpt/vpt7_osc-list.html
 3. Little OSC 內所填的 Port 要和 Processing 程序裡接收的 Port 同一個數字  
 4. Processing 要按 Run
 5. Wi-Fi Router 要支援 UDP 和 OSC 的傳輸(一般都會支援，除非有經過特殊設定)
+
+###Visual Reference(視覺參考)  
+1. Mr. Div http://mrdiv.tumblr.com/    
+2. hanna  www.littlekingdoms.ca  
+3. Robin Davey http://robindavey.co.uk/  
+4. Paolo Čeric http://patakk.tumblr.com/tagged/gif  
