@@ -24,20 +24,15 @@ void setup() {
    * oscP5.send() when sending osc packets to another computer, device, 
    * application. usage see below. In this case to VPT 7
    */
-
-  myRemoteLocation = new NetAddress("172.31.0.38", 6666);
+  
+  //make sure this IP address matches the root IP address
+  myRemoteLocation = new NetAddress("192.168.1.207", 6666);
 }
 
 
 void draw() {
   background(0);
 }
-
-void mousePressed() {
-  //test the connection
-  sendMsg("/sources/1video/clipnr", 1);
-}
-
 
 /* incoming osc message are forwarded to the oscEvent method. */
 void oscEvent(OscMessage theOscMessage) {
